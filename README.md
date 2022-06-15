@@ -1,16 +1,16 @@
-# NewsApp
+# enews
 
-A simple flutter news having different categories such as business, technology, science, etc.
+A new Flutter project.
 
-## SCREENSHOTS
+## Getting Started
 
-<img src="https://github.com/gaurav822/NewsApp/blob/master/Screenshots/1.png" width="400" height="700">
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-<img src="https://github.com/gaurav822/NewsApp/blob/master/Screenshots/2.png" width="400" height="700">
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-<img src="https://github.com/gaurav822/NewsApp/blob/master/Screenshots/3.png" width="400" height="700">
-
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
