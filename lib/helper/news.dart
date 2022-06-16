@@ -9,7 +9,7 @@ class News {
 
   Future<void> getNews() async {
     String url =
-        "http://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=b6dcd3276ea44e26be67b6e0e61a9a36";
+        "http://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=YOUR_NEWSAPI_KEY";
 
     Response res = await http.get(Uri.parse(url));
 
@@ -43,7 +43,7 @@ class CategoryNewsClass {
 
   Future<void> getNews(String category) async {
     String url =
-        "http://newsapi.org/v2/top-headlines?country=us&category=$category&apiKey=b6dcd3276ea44e26be67b6e0e61a9a36";
+        "http://newsapi.org/v2/top-headlines?country=us&category=$category&apiKey=YOUR_NEWSAPI_KEY";
 
     Response res = await http.get(Uri.parse(url));
 
