@@ -2,8 +2,7 @@
 
 Succesfully updated gaurav822's NewsApp to flutter 3.0. 
 
-There is still a few small bugs:
-- Button images do not download (todo: actually we want to remove them)
+As long as we know, we fixed all the bugs. If you see any, polease let us know...
 
 ## Information about the project
 
